@@ -7,6 +7,6 @@ description: Nothing but just enjoy mysql
 First of all, just for not forgetting the life I had lived.
 
 
-### 暗时间 __by 刘未鹏__
+### 暗时间
 
-### 这世界
+### 啥！？你想写本书？
